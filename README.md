@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m a developer and researcher with a passion fo
 - [GazeXR](https://github.com/CorneliusPavlic/GazeXR) is another one of my  Research Projects, focused on detecting students and teachers in a 360 video of a classroom and then identifying who a person is looking at at a particular time using Data collected from a VR headset about their Gaze.
 
 **React**
-- [My Personal Website](https://github.com/CorneliusPavlic/AWSFaceAuthentication) was a Project I decided to take on when I was learning about AWS in my free time this summer. I built up a resume website with my projects using a multitude of AWS services (Click Here)[corneliuspavlic.com]
+- [My Personal Website](https://github.com/CorneliusPavlic/AWSFaceAuthentication) was a Project I decided to take on when I was learning about AWS in my free time this summer. I built up a resume website with my projects using a multitude of AWS services [Click Here](corneliuspavlic.com)
 
 ## 🛠️ Tech Stack
 
